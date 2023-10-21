@@ -11,7 +11,7 @@ As the acting system administrator, I undertook a comprehensive ServiceNow deplo
 <br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/e1866da3-8f5f-4dfd-b0f4-a6cd0f2ffbfe)</br>
 
 
-<h3>User Administration:</h3> I implemented user group administration controls, ensuring a secure and organized user access system. This helped in managing user roles, permissions, and access privileges, contributing to data security and regulatory compliance.
+<h4>User Administration:</h4> I implemented user group administration controls, ensuring a secure and organized user access system. This helped in managing user roles, permissions, and access privileges, contributing to data security and regulatory compliance.
 
 <br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/d45ec604-a634-4f78-a398-9d607a34d49d)</br>
 

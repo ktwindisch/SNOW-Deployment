@@ -1,4 +1,4 @@
-<h1>Project Summary: ServiceNow Deployment for Strawberry Inc.</h1>
+<h1>ServiceNow Deployment for Strawberry Inc.</h1>
 
 <h2>Description:</h2>
 

@@ -4,7 +4,7 @@
 
 As the acting system administrator, I undertook a comprehensive ServiceNow deployment capstone project that encompassed six distinct task categories. Each category was meticulously configured to enhance operational efficiency and streamline IT service management for the organization.
 
-<h2>Key Highlights:</h2>
+<h3>Key Highlights:</h3>
 
 <h4>Incident Management Configuration:</h4> I established a robust incident management system that supported the new process for troubleshooting technical issues that users experiences with the "Strawberry sFone" product. This incident form enables swift identification, tracking, and resolution of issues. This configuration facilitated improved incident reporting, escalation, and resolution times.
 

@@ -26,7 +26,11 @@ As the acting system administrator, I undertook a comprehensive ServiceNow deplo
 The flow is complete and runs as it should!
 
 
-<h3>Knowledge Base Management:</h3> A comprehensive knowledge base was developed and managed, facilitating self-service for users and reducing the burden on support teams. It served as a valuable resource for troubleshooting and information dissemination.
+<h3>Knowledge Base Management:</h3> A comprehensive knowledge base was developed and managed, facilitating self-service for users and reducing the burden on support teams. It served as a valuable resource for troubleshooting and information dissemination. We also applied company security protocols that ensured the right information was accessible only by those who needed it.
+
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/db845876-b027-498f-8185-425482477e53)</br>
+
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/73b21df5-6f99-4eec-b84d-2ee551fa80c4)</br>
 
 <h3>Task Assignment and Communication:</h3> I configured task assignment and communication channels, ensuring seamless collaboration within the organization. This enhanced workflow management, team coordination, and response times to service requests.
 

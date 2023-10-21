@@ -6,7 +6,9 @@ As the acting system administrator, I undertook a comprehensive ServiceNow deplo
 
 <h2>Key Highlights:</h2>
 
-Incident Management Configuration: I established a robust incident management system, enabling swift identification, tracking, and resolution of issues. This configuration facilitated improved incident reporting, escalation, and resolution times.
+Incident Management Configuration: I established a robust incident management system that supported the new process for troubleshooting technical issues that users experiences with the "Strawberry sFone" product. This incident form enables swift identification, tracking, and resolution of issues. This configuration facilitated improved incident reporting, escalation, and resolution times.
+![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/e1866da3-8f5f-4dfd-b0f4-a6cd0f2ffbfe)
+
 
 User Administration: I implemented user administration controls, ensuring a secure and organized user access system. This helped in managing user roles, permissions, and access privileges, contributing to data security and regulatory compliance.
 

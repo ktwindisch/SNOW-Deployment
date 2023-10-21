@@ -17,6 +17,7 @@ As the acting system administrator, I undertook a comprehensive ServiceNow deplo
 
 
 <h3>Service Catalog Item Fulfillment Automation:</h3> By automating service catalog item fulfillment, I optimized the request-to-fulfillment process. By developing a flow to help support this process, users can seamlessly request services, and automation ensures rapid and error-free service delivery.
+
 <br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/70186748-1a86-48a3-a823-ba2116ff1c92)</br>
 
 <h3>Knowledge Base Management:</h3> A comprehensive knowledge base was developed and managed, facilitating self-service for users and reducing the burden on support teams. It served as a valuable resource for troubleshooting and information dissemination.

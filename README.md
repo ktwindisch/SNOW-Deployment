@@ -20,6 +20,9 @@ As the acting system administrator, I undertook a comprehensive ServiceNow deplo
 
 <br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/70186748-1a86-48a3-a823-ba2116ff1c92)</br>
 
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/814c572e-6e4f-4cb2-8e4a-9426b82c7e06)</br>
+
+
 <h3>Knowledge Base Management:</h3> A comprehensive knowledge base was developed and managed, facilitating self-service for users and reducing the burden on support teams. It served as a valuable resource for troubleshooting and information dissemination.
 
 <h3>Task Assignment and Communication:</h3> I configured task assignment and communication channels, ensuring seamless collaboration within the organization. This enhanced workflow management, team coordination, and response times to service requests.

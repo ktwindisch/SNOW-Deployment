@@ -34,4 +34,11 @@ The flow is complete and runs as it should!
 
 <h3>Task Assignment and Communication:</h3> I configured task assignment and communication channels, ensuring seamless collaboration within the organization. This enhanced workflow management, team coordination, and response times to service requests.
 
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/ce8ef920-4c94-49d1-affe-904856072728)</br>
+A new incident has been created. This incident will be automatically assigned to the appropriate support group and we have recieved the automatic email notifications.
+
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/065e9756-4f0e-438a-92ff-7d4f7a08d5df)</br>
+
+Confirmation that we have received the email notifications.
+
 <h3>Scheduled Reports:</h3> I implemented scheduled reports for monitoring and analyzing system performance and service delivery metrics. These reports provided valuable insights for informed decision-making and continuous improvement.

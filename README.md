@@ -1,6 +1,10 @@
+<h1>Project Summary: ServiceNow Deployment for Strawberry Inc.</h1>
+
+<h2>Description:</h2>
+
 As the acting system administrator, I undertook a comprehensive ServiceNow deployment capstone project that encompassed six distinct task categories. Each category was meticulously configured to enhance operational efficiency and streamline IT service management for the organization.
 
-Key Highlights by Category:
+<h2>Key Highlights:</h2>
 
 Incident Management Configuration: I established a robust incident management system, enabling swift identification, tracking, and resolution of issues. This configuration facilitated improved incident reporting, escalation, and resolution times.
 

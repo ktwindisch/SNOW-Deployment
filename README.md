@@ -4,14 +4,14 @@
 
 As the acting system administrator, I undertook a comprehensive ServiceNow deployment capstone project that encompassed six distinct task categories. Each category was meticulously configured to enhance operational efficiency and streamline IT service management for the organization.
 
-<h3>Key Highlights:</h3>
+<h2>Key Highlights:</h2>
 
-<h4>Incident Management Configuration:</h4> I established a robust incident management system that supported the new process for troubleshooting technical issues that users experiences with the "Strawberry sFone" product. This incident form enables swift identification, tracking, and resolution of issues. This configuration facilitated improved incident reporting, escalation, and resolution times.
+<h3>Incident Management Configuration:</h3> I established a robust incident management system that supported the new process for troubleshooting technical issues that users experiences with the "Strawberry sFone" product. This incident form enables swift identification, tracking, and resolution of issues. This configuration facilitated improved incident reporting, escalation, and resolution times.
 
 <br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/e1866da3-8f5f-4dfd-b0f4-a6cd0f2ffbfe)</br>
 
 
-<h4>User Administration:</h4> I implemented user group administration controls, ensuring a secure and organized user access system. This helped in managing user roles, permissions, and access privileges, contributing to data security and regulatory compliance.
+<h3>User Administration:</h3> I implemented user group administration controls, ensuring a secure and organized user access system. This helped in managing user roles, permissions, and access privileges, contributing to data security and regulatory compliance.
 
 <br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/d45ec604-a634-4f78-a398-9d607a34d49d)</br>
 

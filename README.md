@@ -2,7 +2,9 @@
 
 <h2>Description:</h2>
 
-As the acting system administrator, I undertook a comprehensive ServiceNow deployment capstone project that encompassed six distinct task categories. Each category was meticulously configured to enhance operational efficiency and streamline IT service management for the organization.
+As the acting ServiceNow System Administrator, I undertook a comprehensive deployment project that encompassed six distinct task categories. Each category was meticulously configured to enhance operational efficiency and streamline IT service management for the organization.
+
+This ServiceNow deployment project significantly enhanced IT service management, user experience, and operational efficiency for Strawberry Inc., ultimately contributing to the organization's success and effectiveness.
 
 <h2>Key Highlights:</h2>
 
@@ -43,3 +45,11 @@ A new incident has been created. This incident will be automatically assigned to
 Confirmation that we have received the email notifications.
 
 <h3>Scheduled Reports:</h3> I implemented scheduled reports for monitoring and analyzing system performance and service delivery metrics. These reports provided valuable insights for informed decision-making and continuous improvement.
+
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/a38ef015-b612-4bea-b4b4-110375256381)</br>
+
+Our report has been created. Whenever a user runs this report, the collected data from our instance will display. This is especially useful for stakeholders.
+
+<br>![image](https://github.com/ktwindisch/SNOW-Deployment/assets/56203054/020c196f-6476-44cb-be8f-e8b00a74e398)</br>
+
+Confirmed here, our report is scheduled.
